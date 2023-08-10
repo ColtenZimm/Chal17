@@ -1,10 +1,10 @@
-# Title (replace with your title)
+# Build-your-own-Regex
 
-Introductory paragraph (replace this with your text)
+This guide will help you to build your own regex with example codes and snippets
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+The syntax supported by this regex system is mentioned in the "README"
 
 ## Table of Contents
 
@@ -21,29 +21,30 @@ Briefly summarize the regex you will be describing and what you will explain. In
 - [Look-ahead and Look-behind](#look-ahead-and-look-behind)
 
 ## Regex Components
-
+These can all be found in the README
 ### Anchors
-
+These can all be found in the README
 ### Quantifiers
-
+These can all be found in the README
 ### OR Operator
-
+These can all be found in the README
 ### Character Classes
-
+These can all be found in the README
 ### Flags
-
+These can all be found in the README
 ### Grouping and Capturing
-
+These can all be found in the README
 ### Bracket Expressions
-
+These can all be found in the README
 ### Greedy and Lazy Match
-
+These can all be found in the README
 ### Boundaries
-
+These can all be found in the README
 ### Back-references
-
+These can all be found in the README
 ### Look-ahead and Look-behind
-
+Looking ahead I want to broaden the search tools for this code beyond just the example codes I am currently using
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+I am a student in the KU coding bootcamp. 
+https://github.com/ColtenZimm
